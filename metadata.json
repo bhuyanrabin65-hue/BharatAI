@@ -1,0 +1,8 @@
+{
+  "name": "BharatAI",
+  "description": "A realistic, multi-lingual Indian AI companion featuring natural speech, human-like expressions, and real-time interactive voice conversations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
